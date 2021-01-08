@@ -1,0 +1,51 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1792 MB
+    Driver:   10.18.10.3995
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Desktop\Survival_shooter\Zom_Nights1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Survival_shooter\Zom_Nights1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Survival_shooter\Zom_Nights1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Survival_shooter\Zom_Nights1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Survival_shooter\Zom_Nights1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Survival_shooter\Zom_Nights1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Survival_shooter\Zom_Nights1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Survival_shooter\Zom_Nights1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Survival_shooter\Zom_Nights1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Survival_shooter\Zom_Nights1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: C:\Users\User\Desktop\Survival_shooter\Zom_Nights1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\User\Desktop\Survival_shooter\Zom_Nights1_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 3.638052 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 5d20 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 37.886295 ms
+
+Unloading 713 unused Assets to reduce memory usage. Loaded Objects now: 420.
+Total: 7.092213 ms (FindLiveObjects: 0.167212 ms CreateObjectMapping: 0.191161 ms MarkObjects: 0.546969 ms  DeleteObjects: 6.185159 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.250460 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 849.
+Total: 1.403988 ms (FindLiveObjects: 0.147968 ms CreateObjectMapping: 0.104347 ms MarkObjects: 0.868137 ms  DeleteObjects: 0.282251 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.982154 ms
+
+Unloading 238 unused Assets to reduce memory usage. Loaded Objects now: 392.
+Total: 2.860149 ms (FindLiveObjects: 0.099643 ms CreateObjectMapping: 0.141125 ms MarkObjects: 0.533284 ms  DeleteObjects: 2.084385 ms)
+
